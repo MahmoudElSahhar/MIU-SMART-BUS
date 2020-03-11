@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "201383929643",
+    "firebase_url": "https://login-page-bedbf.firebaseio.com",
+    "project_id": "login-page-bedbf",
+    "storage_bucket": "login-page-bedbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201383929643:android:e20d01b5e18d8ce5",
+        "android_client_info": {
+          "package_name": "com.example.mahmo.loginform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201383929643-hcdj6otk3jmjfgcbs6uf5ss2jhfd5hd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahmo.loginform",
+            "certificate_hash": "ed0284833436f749ede3a5cf00440948431570a9"
+          }
+        },
+        {
+          "client_id": "201383929643-mqju24rkj92uc3uh7sd2ubf5ueevre73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU8lO6Xhij0xlKG0d8d9ZW-1hunS6t660"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201383929643-mqju24rkj92uc3uh7sd2ubf5ueevre73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

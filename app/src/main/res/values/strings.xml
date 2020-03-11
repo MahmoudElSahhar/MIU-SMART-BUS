@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MIU Bus</string>
+    <string name="title_activity_watch_live">Map</string>
+    <string name="title_activity_student_watch_live">Map</string>
+    <string name="title_activity_watch_bus_stops_on_map">Map</string>
+    <string name="title_activity_nearest_stop_on_map">Map</string>
+    <string name="title_activity_find_destination_on_map">Map</string>
+    <string name="title_activity_stop_location_on_map">Map</string>
+    <string name="title_activity_bus_on_map">Map</string>
+</resources>
